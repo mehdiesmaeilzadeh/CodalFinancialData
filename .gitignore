@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Output files
+*.xlsx
+*.xls
+*.pdf
+
+# Download folders
+downloads/
+output/
+codal_files/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment files
+.env
