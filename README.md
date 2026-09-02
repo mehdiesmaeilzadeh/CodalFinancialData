@@ -50,7 +50,7 @@ pip install -r requirements.txt
 نمونه کامل:
 
 ```python
-from Codal_statement.Codal import *
+from Codal import *
 
 all_datasource = get_financial_report(
     symbol="زاگرس",
@@ -157,8 +157,8 @@ download_report(
 ```
 ```
 
----
 
-⭐ حمایت از پروژه
 
-اگر این پروژه برای شما مفید بود، می‌توانید با ⭐ دادن به Repository از توسعه آن حمایت کنید.
+
+
+اگر این پروژه برای شما مفید بود، می‌توانید با ⭐ دادن به آن از توسعه آن حمایت کنید.
