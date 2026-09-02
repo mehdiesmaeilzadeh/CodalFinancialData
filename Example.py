@@ -1,4 +1,4 @@
-from Codal_statement.Codal import *
+from Codal import *
 
 
 # ------------------------------------------------------------
